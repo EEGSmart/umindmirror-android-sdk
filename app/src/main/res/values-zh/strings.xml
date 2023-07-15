@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">UMindMirror SDK</string>
+
+    <string name="connect_device">连接设备</string>
+    <string name="eeg_device_mind2">您可以在UMindMirror设备的背面找到蓝牙名称后四位对应的设备SN号</string>
+    <string name="bt_not_open">蓝牙未开启</string>
+    <string name="bt_open">打开蓝牙</string>
+    <string name="connected_device">已连接设备</string>
+    <string name="disconnect">断开</string>
+    <string name="available_device">附近可用设备</string>
+    <string name="confirm_to_disconnect_drone">确认断开连接？</string>
+    <string name="yes">确定</string>
+    <string name="no">取消</string>
+    <string name="device_connected">设备已连接</string>
+    <string name="device_disconnected">设备已断连</string>
+
+    <string name="device_name">设备名称</string>
+    <string name="device_sn">设备SN</string>
+    <string name="device_sw_version">软件版本</string>
+    <string name="device_hw_version">硬件版本</string>
+    <string name="device_charge">电池状态</string>
+    <string name="device_battery">设备电量</string>
+    <string name="signal_quality">脑电信号质量</string>
+    <string name="ble_rssi">连接强度</string>
+    <string name="body_posi">体位</string>
+    <string name="body_move">体动</string>
+    <string name="device_notch">陷波器</string>
+
+    <string name="signal_check">检测中</string>
+    <string name="signal_good">良好</string>
+    <string name="signal_bad">不良</string>
+
+    <string name="battery_using">未充电</string>
+    <string name="battery_charging">充电中</string>
+    <string name="battery_full">已充满</string>
+
+</resources>

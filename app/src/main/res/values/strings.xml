@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">UMindMirror SDK</string>
+
+    <string name="connect_device">Connect Device</string>
+    <string name="eeg_device_mind2">You can find the device SN number corresponding to the last four digits of the Bluetooth name on the back of the UMindMirror device</string>
+    <string name="bt_not_open">Bluetooth is not open</string>
+    <string name="bt_open">Open Bluetooth</string>
+    <string name="connected_device">Connected Device</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="available_device">Nearby Available Devices</string>
+    <string name="confirm_to_disconnect_drone">Confirm to disconnect? </string>
+    <string name="yes">OK</string>
+    <string name="no">Cancel</string>
+    <string name="device_connected">Device connected</string>
+    <string name="device_disconnected">Device disconnected</string>
+
+    <string name="device_name">Device Name</string>
+    <string name="device_sn">Device SN</string>
+    <string name="device_sw_version">Software Version</string>
+    <string name="device_hw_version">Hardware Version</string>
+    <string name="device_charge">Battery Status</string>
+    <string name="device_battery">Device Power</string>
+    <string name="signal_quality">EEG Signal Quality</string>
+    <string name="ble_rssi">Connection Rssi</string>
+    <string name="body_posi">Body Position</string>
+    <string name="body_move">Body Movement</string>
+    <string name="device_notch">Notch Filter</string>
+
+    <string name="signal_check">Checking</string>
+    <string name="signal_good">Good</string>
+    <string name="signal_bad">Bad</string>
+
+    <string name="battery_using">Not charging</string>
+    <string name="battery_charging">Charging</string>
+    <string name="battery_full">Fully charged</string>
+
+</resources>
